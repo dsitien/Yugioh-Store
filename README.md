@@ -7,6 +7,5 @@
 * The project run in Apache NetBeans IDE 13
 
 ### Screenshots
-![Yugioh Store](https://github.com/dsitien/math-util-1625/blob/main/image/DDTTest.PNG)
-
+![Yugioh Store](https://github.com/dsitien/Yugioh-Store/blob/main/img/Capture.PNG)
 #### © 2023 dsitien

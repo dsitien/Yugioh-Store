@@ -1,4 +1,4 @@
-[![Yugioh Store | © 2023 by dsitien]
+[![Yugioh Store | © 2023 by dsitien]]
 
 # Welcome to Yugioh Store Repository
 ### You will find in this repo the following stuff
